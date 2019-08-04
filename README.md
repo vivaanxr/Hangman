@@ -1,2 +1,2 @@
-# hangman
-my first game on python
+# Hangman
+My first game on python
